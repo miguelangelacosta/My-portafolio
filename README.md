@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## VIDEO COMPLETO EN YOUTUBE
 https://youtu.be/HMbzJaBi4OU
 
@@ -20,3 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 <img width="1678" alt="Screenshot 2024-02-12 at 16 33 26" src="https://github.com/ratasi/landing-page-particles/assets/16082370/fa7cf285-b091-4811-b464-db63c3b52c72">
 
 <img width="1680" alt="Screenshot 2024-02-12 at 16 49 45" src="https://github.com/ratasi/landing-page-particles/assets/16082370/54aa5cca-913c-444e-8495-1007e5630aa7">
+=======
+# My-portafolio
+>>>>>>> 88629153125de2cd13131ddec14ff5eaad2a483c
