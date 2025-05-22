@@ -1,32 +1,19 @@
-import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Twitter, Rss, Twitch, Youtube, Crop, Pencil, Computer, Book, Rocket, Speech } from "lucide-react";
+import { BookText, CodeSquare, HomeIcon, UserRound, Linkedin, Github, Rss, Twitch, Youtube, Crop, Pencil, Computer, Book, Rocket, Speech } from "lucide-react";
 
 export const socialNetworks = [
-    {
-        id: 1,
-        logo: <Youtube size={30} strokeWidth={1} />,
-        src: "#!",
-    },
-    {
-        id: 2,
-        logo: <Linkedin size={30} strokeWidth={1} />,
-        src: "#!",
-    },
-    {
-        id: 3,
-        logo: <Twitter size={30} strokeWidth={1} />,
-        src: "#!",
-    },
-    {
-        id: 4,
-        logo: <Rss size={30} strokeWidth={1} />,
-        src: "#!",
-    },
-    {
-        id: 5,
-        logo: <Twitch size={30} strokeWidth={1} />,
-        src: "#!",
-    },
+ 
+  {
+    id: 1,
+    logo: <Github size={30} strokeWidth={1} />,
+    src: "#!",
+  },
+  {
+    id: 2,
+    logo: <Linkedin size={30} strokeWidth={1} />,
+    src: "#!",
+  },
 ];
+
 
 
 export const itemsNavbar = [
@@ -65,31 +52,31 @@ export const itemsNavbar = [
 export const dataAboutPage = [
     {
         id: 1,
-        title: "Frontend Developer",
-        subtitle: "TechSolutions",
-        description: "Colabora con un equipo dinámico para desarrollar interfaces de usuario atractivas y funcionales que impulsen el éxito de nuestros clientes en el mundo digital.",
-        date: "Nov 2023 ",
+        title: "full stack Developer",
+        subtitle: "goit",
+        description: "Colaboro con equipos dinámicos para desarrollar interfaces de usuario atractivas y funcionales que contribuyen al éxito de nuestros clientes en el mundo digital. Me enfoco en crear experiencias intuitivas y visualmente impactantes, combinando diseño y tecnología para ofrecer soluciones que realmente marquen la diferencia.",
+        date: "dic 2023 ",
     },
     {
         id: 2,
         title: "Creador de Experiencias Digitales",
-        subtitle: "PixelCrafters",
-        description: "Trabaja en proyectos emocionantes que desafían los límites de la creatividad y la tecnología. Únete a nosotros mientras creamos experiencias digitales cautivadoras que inspiran y cautivan a nuestros usuarios.",
-        date: "May 2021",
+        subtitle: "NEEW",
+        description: "Además de programar ideas, también me apasiona el diseño y la animación. Esta pasión me ha llevado a adquirir conocimientos en herramientas altamente valoradas en la industria, ideales para realizar trabajos profesionales y de altos estándares. Disfruto dar vida a los conceptos a través del movimiento y la estética, combinando la lógica del desarrollo con la creatividad del diseño visual. ",
+        date: "May 2022",
     },
     {
         id: 3,
         title: "Especialista en Desarrollo Frontend",
-        subtitle: "CodeForge Solutions",
-        description: "Como desarrollador frontend, tendrás la oportunidad de colaborar en proyectos diversos y desafiantes que te permitirán expandir tus habilidades y dejar tu huella en el mundo digital.",
-        date: "Ago 2019",
+        subtitle: "GO IT LATAM",
+        description: "Como desarrollador frontend, he tenido la oportunidad de participar en proyectos diversos y desafiantes que me han permitido expandir mis habilidades técnicas y creativas. Disfruto transformar ideas en experiencias digitales funcionales y atractivas, y me motiva saber que mi trabajo contribuye a crear soluciones que impactan positivamente en los usuarios. Cada proyecto representa para mí una nueva oportunidad para aprender, crecer y dejar mi huella en el mundo digital.",
+        date: "MAYO 2025",
     },
     {
         id: 4,
-        title: "Prácticas Grado",
-        subtitle: "WebWizards Inc.",
-        description: "Únete a nosotros mientras creamos sitios web y aplicaciones interactivas que sorprenden y deleitan a nuestros clientes. Si tienes pasión por el diseño y la programación, y disfrutas colaborar en un entorno creativo, ¡queremos conocerte!        ",
-        date: "Mar 2018",
+        title: "Prácticas Grado ",
+        subtitle: "GO IT LATAM",
+        description: "Durante mi período de prácticas, trabajé en un entorno multicultural junto a profesionales talentosos de distintas partes del mundo. Participé activamente en el desarrollo de proyectos reales, aplicando los conocimientos adquiridos para transformar ideas en soluciones concretas. Esta experiencia no solo contribuyó a la satisfacción de los clientes, sino que también me permitió crecer profesionalmente al ver materializados los resultados de nuestro trabajo en equipo. ",
+        date: "Mar 2023",
     },
 ]
 
@@ -214,44 +201,23 @@ export const dataPortfolio = [
 export const dataTestimonials = [
     {
         id: 1,
-        name: "George Snow",
+        name: "opusindustri",
         description:
             "¡Increíble plataforma! Los testimonios aquí son genuinos y me han ayudado a tomar decisiones informadas. ¡Altamente recomendado!",
         imageUrl: "/profile1.png",
     },
     {
         id: 2,
-        name: "Juan Pérez",
+        name: "o.k karen osorio nails clud",
         description:
             "Me encanta la variedad de testimonios disponibles en esta página. Es inspirador ver cómo otras personas han superado desafíos similares a los míos. ¡Gracias por esta invaluable fuente de motivación!",
         imageUrl: "/profile2.png",
     },
     {
         id: 3,
-        name: "María García",
+        name: "auto paint perdomo",
         description:
             "Excelente recurso para obtener opiniones auténticas sobre diferentes productos y servicios. Me ha ayudado mucho en mis compras en línea. ¡Bravo por este sitio!",
         imageUrl: "/profile3.png",
     },
-    {
-        id: 4,
-        name: "Laura Snow",
-        description:
-            "¡Qué descubrimiento tan fantástico! Los testimonios aquí son honestos y detallados. Me siento más seguro al tomar decisiones después de leer las experiencias compartidas por otros usuarios.",
-        imageUrl: "/profile4.png",
-    },
-    {
-        id: 5,
-        name: "Carlos Sánchez",
-        description:
-            "Una joya en la web. Los testimonios son fáciles de encontrar y están bien organizados. ¡Definitivamente mi destino número uno cuando necesito referencias confiables!",
-        imageUrl: "/profile5.png",
-    },
-    {
-        id: 6,
-        name: "Antonio Martínez",
-        description:
-            "¡Fantástico recurso para aquellos que buscan validación antes de tomar decisiones importantes! Los testimonios aquí son veraces y realmente útiles. ¡Gracias por simplificar mi proceso de toma de decisiones!",
-        imageUrl: "/profile6.png",
-    },
-];
+]

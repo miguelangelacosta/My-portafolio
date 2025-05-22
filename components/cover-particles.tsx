@@ -46,10 +46,10 @@ export const CoverParticles = () => {
                     },
                     particles: {
                         color: {
-                            value: "#ffffff",
+                            value: "#FF6A00", // naranja fuerte y vibrante
                         },
                         links: {
-                            color: "#ffffff",
+                            color: "#FF6A00", // naranja fuerte y vibrante
                             distance: 150,
                             enable: true,
                             opacity: 0.5,
@@ -83,7 +83,6 @@ export const CoverParticles = () => {
                     },
                     detectRetina: true,
                 }}
-
             />
         </div>
     )
