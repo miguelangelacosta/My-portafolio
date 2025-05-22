@@ -5,12 +5,12 @@ export const socialNetworks = [
   {
     id: 1,
     logo: <Github size={30} strokeWidth={1} />,
-    src: "#!",
+    src: "https://github.com/miguelangelacosta",
   },
   {
     id: 2,
     logo: <Linkedin size={30} strokeWidth={1} />,
-    src: "#!",
+    src: "https://www.linkedin.com/in/miguel-acosta-ortiz-384944272/",
   },
 ];
 
@@ -53,22 +53,22 @@ export const dataAboutPage = [
     {
         id: 1,
         title: "full stack Developer",
-        subtitle: "goit",
+        subtitle: "GO IT LATAM",
         description: "Colaboro con equipos dinámicos para desarrollar interfaces de usuario atractivas y funcionales que contribuyen al éxito de nuestros clientes en el mundo digital. Me enfoco en crear experiencias intuitivas y visualmente impactantes, combinando diseño y tecnología para ofrecer soluciones que realmente marquen la diferencia.",
         date: "dic 2023 ",
     },
     {
         id: 2,
         title: "Creador de Experiencias Digitales",
-        subtitle: "NEEW",
+        subtitle: "Neetwork school",
         description: "Además de programar ideas, también me apasiona el diseño y la animación. Esta pasión me ha llevado a adquirir conocimientos en herramientas altamente valoradas en la industria, ideales para realizar trabajos profesionales y de altos estándares. Disfruto dar vida a los conceptos a través del movimiento y la estética, combinando la lógica del desarrollo con la creatividad del diseño visual. ",
         date: "May 2022",
     },
     {
         id: 3,
-        title: "Especialista en Desarrollo Frontend",
+        title: "Especialista en Desarrollo full stack",
         subtitle: "GO IT LATAM",
-        description: "Como desarrollador frontend, he tenido la oportunidad de participar en proyectos diversos y desafiantes que me han permitido expandir mis habilidades técnicas y creativas. Disfruto transformar ideas en experiencias digitales funcionales y atractivas, y me motiva saber que mi trabajo contribuye a crear soluciones que impactan positivamente en los usuarios. Cada proyecto representa para mí una nueva oportunidad para aprender, crecer y dejar mi huella en el mundo digital.",
+        description: "Como desarrollador full stack, he tenido la oportunidad de participar en proyectos diversos y desafiantes que me han permitido expandir mis habilidades técnicas y creativas. Disfruto transformar ideas en experiencias digitales funcionales y atractivas, y me motiva saber que mi trabajo contribuye a crear soluciones que impactan positivamente en los usuarios. Cada proyecto representa para mí una nueva oportunidad para aprender, crecer y dejar mi huella en el mundo digital.",
         date: "MAYO 2025",
     },
     {
@@ -83,32 +83,26 @@ export const dataAboutPage = [
 export const dataCounter = [
     {
         id: 0,
-        endCounter: 10,
+        endCounter: 2,
         text: "Años de experiencia",
         lineRight: true,
         lineRightMobile: true,
     },
     {
         id: 1,
-        endCounter: 80,
+        endCounter: 7,
         text: "Clientes satisfechos",
         lineRight: true,
         lineRightMobile: false,
     },
     {
         id: 2,
-        endCounter: 220,
+        endCounter: 6,
         text: "Proyectos finalizados",
         lineRight: true,
         lineRightMobile: true,
     },
-    {
-        id: 3,
-        endCounter: 30,
-        text: "Premios ganadores",
-        lineRight: false,
-        lineRightMobile: false,
-    },
+   
 ];
 
 export const serviceData = [
@@ -204,7 +198,7 @@ export const dataTestimonials = [
         name: "opusindustri",
         description:
             "¡Increíble plataforma! Los testimonios aquí son genuinos y me han ayudado a tomar decisiones informadas. ¡Altamente recomendado!",
-        imageUrl: "/profile1.png",
+        imageUrl: "/",
     },
     {
         id: 2,
